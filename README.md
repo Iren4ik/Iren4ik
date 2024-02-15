@@ -24,3 +24,7 @@
 <h3 align="left">Аналитика GitHub</h3>
 
 [![Iren4ik's GitHub | Stats](https://stats.quine.sh/Iren4ik/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Iren4ik)
+
+<p align="right">
+  <img alt="me" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/call.jpg" width="30%" height="30%"/>
+</p>
