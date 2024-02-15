@@ -1,5 +1,6 @@
-<img alt="me" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/me.jpg" align="center" width="30%" height="30%"/>
-
+<p align="center">
+  <img alt="me" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/me.jpg" width="20%" height="20%"/>
+</p>
 
 <h1 align="center">Привет 👋, Я Ирена</h1>
 <h3 align="center">Увлеченный фронтенд-разработчик из Санкт-Петербурга</h3>
