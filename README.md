@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/me.jpg" align="center" width="60%" height="60%"/>
+<img alt="me" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/me.jpg" align="center" width="30%" height="30%"/>
 
 
 <h1 align="center">Привет 👋, Я Ирена</h1>
