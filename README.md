@@ -1,4 +1,5 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/me.jpg" align="center"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/me.jpg" align="center" width="60%" height="60%"/>
+
 
 <h1 align="center">Привет 👋, Я Ирена</h1>
 <h3 align="center">Увлеченный фронтенд-разработчик из Санкт-Петербурга</h3>
