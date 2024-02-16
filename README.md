@@ -2,8 +2,8 @@
   <img alt="my profile" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/Me.png" width="35%" height="35%"/>
 </p>
 
-<h1 align="center">Привет 👋, Я Ирена</h1>
-<h3 align="center">Увлеченный фронтенд-разработчик из Санкт-Петербурга</h3>
+<h1 align="center">Привет, Я Ирена ✨</h1>
+<h2 align="center">Увлеченный <span text-decoration="underline">фронтенд-разработчик</span> из Санкт-Петербурга</h2>
 
 <p align="center">Мне нравится создавать. Создавать красивое, удобное и понятное.
 Это причина по которой я пошла в веб-разработку. Она дает практически неограниченные возможности для творчества - создавать функциональные и простые сайты, где каждое действие будет иметь отклик. И все это с применением технологий, которые постоянно совершенствуются.</p>
@@ -24,6 +24,7 @@
 <h3 align="left">Аналитика GitHub</h3>
 
 [![Iren4ik's GitHub | Stats](https://stats.quine.sh/Iren4ik/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Iren4ik)
+[![Iren4ik's GitHub | Dependencies](https://stats.quine.sh/Iren4ik/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Iren4ik)
 
 <p align="right">
   <img alt="call me" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/Call.png" width="35%" height="35%"/>
