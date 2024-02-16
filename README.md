@@ -28,7 +28,7 @@
 
 <h3 align="left">Свяжитесь со мной</h3>
 <p align="left">
-  <a href="https://t.me/me_irena" target="blank"><img align="center" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/Me.png" alt="Telegram link" height="30" width="40" /></a>
+  <a href="https://t.me/me_irena" target="blank"><img align="center" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/tg.png" alt="Telegram link" height="40" width="40" /></a>
 </p>
 
 <p align="right">
