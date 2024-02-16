@@ -30,9 +30,9 @@
 
 <h3 align="left">Свяжитесь со мной</h3>
 <p align="left">
-  <a href="https://t.me/me_irena" target="blank"><img align="center" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/tg.png" alt="Telegram link" height="40" width="40" /></a>
+  <a href="https://t.me/me_irena" target="blank"><img align="center" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/Tg.png" alt="Telegram link" height="50" width="50" /></a>
 </p>
 
 <p align="right">
-  <img alt="call me" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/Call.png" width="35%" height="35%"/>
+  <img alt="call me" src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/Call.png" width="40%" height="40%"/>
 </p>
