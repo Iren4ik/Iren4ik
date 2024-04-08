@@ -20,8 +20,6 @@
 
 💜  Не пропустите мой [codepen](https://codepen.io/your-work)
 
-💜  Потихоньку продвигаюсь на [codewars](https://www.codewars.com/users/Iren4ik)
-
 💜  Факт обо мне: **могу часами смотреть забавные видосики с песиками**
 
 <h3 align="left">Интересные проекты</h3>
@@ -63,6 +61,10 @@
 
 [![Iren4ik's GitHub | Stats](https://stats.quine.sh/Iren4ik/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Iren4ik)
 [![Iren4ik's GitHub | Dependencies](https://stats.quine.sh/Iren4ik/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Iren4ik)
+
+<h3 align="left">Прочая аналитика</h3>
+
+![Codewars](https://github.r2v.ch/codewars?user=Iren4ik&name=true&stroke=%23b362ff&theme=gradient_purple_dark)
 
 <h3 align="left">Свяжитесь со мной</h3>
 <p align="left">
