@@ -22,6 +22,7 @@
 
 💜  Факт обо мне: **могу часами смотреть забавные видосики с песиками**
 
+
 <h3 align="left">Интересные проекты</h3>
 
 🌛 **Трекер развития** 🌜
@@ -65,6 +66,8 @@
 <h3 align="left">Прочая аналитика</h3>
 
 [![Codewars](https://github.r2v.ch/codewars?user=Iren4ik&name=true&stroke=%23b362ff&theme=gradient_purple_dark)](https://www.codewars.com/users/Iren4ik)
+
+[![Hits](https://u8views.com/api/v1/github/profiles/124435764/views/day-week-month-total-count.svg)](https://u8views.com/github/Iren4ik)
 
 <h3 align="left">Свяжитесь со мной</h3>
 <p align="left">
