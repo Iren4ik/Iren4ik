@@ -64,7 +64,7 @@
 
 <h3 align="left">Прочая аналитика</h3>
 
-![Codewars](https://github.r2v.ch/codewars?user=Iren4ik&name=true&stroke=%23b362ff&theme=gradient_purple_dark)
+[![Codewars](https://github.r2v.ch/codewars?user=Iren4ik&name=true&stroke=%23b362ff&theme=gradient_purple_dark)](https://www.codewars.com/users/Iren4ik)
 
 <h3 align="left">Свяжитесь со мной</h3>
 <p align="left">
