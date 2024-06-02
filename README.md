@@ -32,7 +32,7 @@
 
 ⭐️  [Путешествие по России](https://iren4ik.github.io/russian-travel/)
 
-⭐️  [How to learn](https://github.com/Iren4ik/how-to-learn)
+⭐️  [How to learn](https://iren4ik.github.io/how-to-learn/)
 
 
 <h3 align="left">Языки и инструменты</h3>
