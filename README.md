@@ -22,6 +22,19 @@
 
 💜  Факт обо мне: **могу часами смотреть забавные видосики с песиками**
 
+<h3 align="left">Задеплоенные проекты</h3>
+
+⭐️  [Приложение для тестирования](https://testing-app-gold.vercel.app/)
+
+⭐️  [Mesto с авторизацией](https://iren4ik.github.io/react-mesto-auth/#/sign-in)
+
+⭐️  [Mesto без авторизации](https://iren4ik.github.io/mesto-react/)
+
+⭐️  [Путешествие по России](https://iren4ik.github.io/russian-travel/)
+
+⭐️  [How to learn](https://github.com/Iren4ik/how-to-learn)
+
+
 <h3 align="left">Языки и инструменты</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
