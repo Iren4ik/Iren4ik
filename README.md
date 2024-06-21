@@ -8,7 +8,7 @@
 <p align="center">Мне нравится создавать. Создавать красивое, удобное и понятное.
 Это причина по которой я пошла в веб-разработку. Она дает практически неограниченные возможности для творчества - создавать функциональные и простые сайты, где каждое действие будет иметь отклик. И все это с применением технологий, которые постоянно совершенствуются.</p>
 
-<h3 align="left">Немного обо мне</h3>
+<h2 align="left">Немного обо мне</h2>
 
 💜  Все мои проекты лежат на [GitHub](https://github.com/Iren4ik)
 
@@ -22,7 +22,7 @@
 
 💜  Факт обо мне: **могу часами смотреть забавные видосики с песиками**
 
-<h3 align="left">Задеплоенные проекты</h3>
+<h2 align="left">Задеплоенные проекты</h2>
 
 ⭐️  [Приложение для тестирования](https://testing-app-gold.vercel.app/)
 
@@ -35,7 +35,7 @@
 ⭐️  [How to learn](https://iren4ik.github.io/how-to-learn/)
 
 
-<h3 align="left">Языки и инструменты</h3>
+<h2 align="left">Языки и инструменты</h2>
 <p align="left">
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -53,18 +53,18 @@
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="36" /></a>  
 </p>
 
-<h3 align="left">Аналитика GitHub</h3>
+<h2 align="left">Аналитика GitHub</h2>
 
 [![Iren4ik's GitHub | Stats](https://stats.quine.sh/Iren4ik/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Iren4ik)
 [![Iren4ik's GitHub | Dependencies](https://stats.quine.sh/Iren4ik/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Iren4ik)
 
-<h3 align="left">Прочая аналитика</h3>
+<h2 align="left">Прочая аналитика</h2>
 
 ![Codewars](https://github.r2v.ch/codewars?user=Iren4ik&theme=gradient_purple_dark)
 
 [![Hits](https://u8views.com/api/v1/github/profiles/124435764/views/day-week-month-total-count.svg)](https://u8views.com/github/Iren4ik)
 
-<h3 align="left">Свяжитесь со мной</h3>
+<h2 align="left">Свяжитесь со мной</h2>
 <p align="left"> 
   <a href="https://t.me/me_irena" target="_blank"><img src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/Tg.png" alt="Telegram link" height="40" width="40" /></a>
   <a href="https://www.codepen.io/Iren4ik_the_animator" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="40" height="40" /> </picture> </a> 
