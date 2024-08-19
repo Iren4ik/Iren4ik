@@ -60,6 +60,8 @@
 
 <h2 align="left">Прочая аналитика</h2>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Iren4ik?theme=unicorn&font=Metrophobic&ext=contest)
+
 ![Codewars](https://github.r2v.ch/codewars?user=Iren4ik&theme=gradient_purple_dark)
 
 [![Hits](https://u8views.com/api/v1/github/profiles/124435764/views/day-week-month-total-count.svg)](https://u8views.com/github/Iren4ik)
