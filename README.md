@@ -3,35 +3,22 @@
 </p>
 
 <h1 align="center">Привет, я Ирена ⚡️</h1>
-<h3 align="center">Фронтенд-разработчик из Санкт-Петербурга</h3>
+<h3 align="center">Frontend-developer из Санкт-Петербурга</h3>
 
-<p align="center">Мне нравится создавать. Создавать красивое, удобное и понятное.
-Это причина по которой я пошла в веб-разработку. Она дает практически неограниченные возможности для творчества - создавать функциональные и простые сайты, где каждое действие будет иметь отклик. И все это с применением технологий, которые постоянно совершенствуются.</p>
+<p align="center">Мне важно, чтобы то, что я создаю, было не только функциональным, но и красивым, понятным, удобным. Именно поэтому я выбрала веб-разработку — она объединяет творчество и логику, позволяет видеть результат своей работы и делать что-то полезное.
+</p>
 
 <h2 align="left">Немного обо мне</h2>
 
+⭐️  Связаться со мной (или просто кинуть смешной видосик) можно в [Telegram](https://t.me/me_irena)
 
-💜  Мое резюме [здесь](https://spb.hh.ru/resume/401cdc93ff0cd7c8930039ed1f4e4f7a764774)
+⭐️  Если вам нравится более деловой формат - моя почта korshakovairena@mail.ru 
 
-💜  Связаться со мной (или просто кинуть смешной видосик) можно в [Telegram](https://t.me/me_irena) или по почте korshakovairena@mail.ru 
+⭐️  Кстати, я наконец запускаю [блог](https://t.me/onemoreappp). Пока там правда только пара мемов о моей жизни
 
-💜  Иногда я веду [блог](https://t.me/notesfromthefrontend)
+⭐️  Факт обо мне: **могу часами смотреть забавные видосики с песиками**
 
-💜  Не пропустите мой [codepen](https://codepen.io/your-work), вдруг там наконец появилось что-то новенькое
-
-💜  Факт обо мне: **могу часами смотреть забавные видосики с песиками**
-
-<h2 align="left">Мои проекты</h2>
-
-⭐️  [Приложение для тестирования](https://testing-app-gold.vercel.app/)
-
-⭐️  [Mesto с авторизацией](https://iren4ik.github.io/react-mesto-auth/#/sign-in)
-
-⭐️  [Mesto без авторизации](https://iren4ik.github.io/mesto-react/)
-
-⭐️  [Путешествие по России](https://iren4ik.github.io/russian-travel/)
-
-⭐️  [How to learn](https://iren4ik.github.io/how-to-learn/)
+⭐️  Сейчас я стажируюсь в [AppStruct](https://appstruct.cloud/). Обязательно заходите и попробуйте создать свое собственное приложение
 
 
 <h2 align="left">Языки и инструменты</h2>
@@ -52,19 +39,14 @@
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="36" /></a>  
 </p>
 
-<h2 align="left">Аналитика GitHub</h2>
-
-[![Iren4ik's GitHub | Stats](https://stats.quine.sh/Iren4ik/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Iren4ik)
-[![Iren4ik's GitHub | Dependencies](https://stats.quine.sh/Iren4ik/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Iren4ik)
-
-<h2 align="left">Прочая аналитика</h2>
+<h2 align="left">Некоторая аналитика</h2>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Iren4ik?theme=unicorn&font=Metrophobic&ext=contest)
 ![Codewars](https://github.r2v.ch/codewars?user=Iren4ik&theme=gradient_purple_dark)
 
 [![Hits](https://u8views.com/api/v1/github/profiles/124435764/views/day-week-month-total-count.svg)](https://u8views.com/github/Iren4ik)
 
-<h2 align="left">Свяжитесь со мной</h2>
+<h2 align="left">Ссылки</h2>
 <p align="left"> 
   <a href="https://t.me/me_irena" target="_blank"><img src="https://raw.githubusercontent.com/iren4ik/iren4ik/main/Tg.png" alt="Telegram link" height="40" width="40" /></a>
   <a href="https://www.codepen.io/Iren4ik_the_animator" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="40" height="40" /> </picture> </a> 
